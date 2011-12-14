@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Acme::VERSION
   s.authors     = ["Jason King"]
   s.email       = ["jk@handle.it"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/smathy/acme"
   s.summary     = %q{a namespace for mischief}
   s.description = %q{nothing to see here, move along}
 
