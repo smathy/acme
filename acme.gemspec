@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Jason King"]
   s.email       = ["jk@handle.it"]
   s.homepage    = "https://github.com/smathy/acme"
-  s.summary     = %q{a namespace for mischief}
-  s.description = %q{nothing to see here, move along}
+  s.summary     = %q{A namespace for mischief}
+  s.description = %q{A namespace for mischief and silliness, feel free to publish your own Acme::* gems}
 
   s.rubyforge_project = "acme"
 
