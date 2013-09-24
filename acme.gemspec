@@ -20,4 +20,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'acme-bleach'
   s.add_dependency 'acme-heisenberg'
+  s.add_dependency 'acme-leeway'
 end
