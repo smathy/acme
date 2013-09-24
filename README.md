@@ -9,6 +9,5 @@ just raise a pull request in this repo and I'll add it in.
 ## Current Gems
 
  * [Acme::Bleach](//github.com/smathy/acme-bleach)
- * [Acme::Bleach](//github.com/smathy/acme-heisenberg)
- * [Acme::Bleach](//github.com/rthbound/acme-leeway)
-
+ * [Acme::Heisenberg](//github.com/smathy/acme-heisenberg)
+ * [Acme::Leeway](//github.com/rthbound/acme-leeway)
