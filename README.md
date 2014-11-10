@@ -11,3 +11,4 @@ just raise a pull request in this repo and I'll add it in.
  * [Acme::Bleach](//github.com/smathy/acme-bleach)
  * [Acme::Heisenberg](//github.com/smathy/acme-heisenberg)
  * [Acme::Leeway](//github.com/rthbound/acme-leeway)
+ * [Acme::Umlautify](//github.com/amz4f/acme-umlautify)
